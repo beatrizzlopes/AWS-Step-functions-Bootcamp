@@ -5,7 +5,9 @@ Este repositório possui o desafio: consolidar seus workflows automatizados com 
 # Material presente no repositório
 
 README.md: Explicação detalhada do desafio e anotações do módulo de Gerenciamento de Instâncias EC2.
+
 experiência: Contém anotações sobre minha experiência prática do desafio.
+
 Imagens: Captura de tela do Desafio.
 
 # Anotações
