@@ -1,8 +1,8 @@
-#Introdução
+# Introdução
 
 Este repositório possui o desafio: consolidar seus workflows automatizados com AWS Step Functions, também contém minhas anotações e insights adquiridos durante o 7° módulo do bootcamp Santander Code Girls com a DIO, focado em computação em nuvem com AWS.
 
-#Material presente no repositório
+# Material presente no repositório
 
 README.md: Explicação detalhada do desafio e anotações do módulo de Gerenciamento de Instâncias EC2.
 experiência: Contém anotações sobre minha experiência prática do desafio.
@@ -15,9 +15,9 @@ Imagens: Captura de tela do Desafio.
 # Desafio: Consolidar seus workflows automatizados com AWS Step Functions
 
 
-Para mais informações sobre a minha experiência prática acesse: []
+Para mais informações sobre a minha experiência prática acesse nosso arquivo: [Experiência](https://github.com/beatrizzlopes/AWS-Step-functions-Bootcamp/blob/main/Experi%C3%AAncia)
 
-#Autora
+# Autora
 Beatriz Lopes
 
-#Referência
+# Referência
