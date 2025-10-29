@@ -18,6 +18,8 @@ Imagens: Captura de tela do Desafio.
 
 Na imagem abaixo contém o conteúdo do meu workflow. Este projeto é sobre um sistema de aluguel de livros que decide se o pedido será aprovado ou não, usando SQS, Lambda, Choice, DynamoDB e SNS.
 
+![image alt](https://github.com/beatrizzlopes/AWS-Step-functions-Bootcamp/blob/ca294685665d3caf2a4234d16980f52b9e1a4efc/Imagem/stepfunctions_graph.png)
+
 
 Para mais informações sobre a minha experiência prática acesse nosso arquivo: [Experiência](https://github.com/beatrizzlopes/AWS-Step-functions-Bootcamp/blob/main/Experi%C3%AAncia)
 
