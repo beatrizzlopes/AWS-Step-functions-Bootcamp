@@ -5,5 +5,6 @@ Quando um usuário solicita um livro, o pedido é colocado na fila SQS. Uma fun�
 e um Choice decide se o pagamento foi aprovado ou não. Pedidos aprovados são registrados no DynamoDB e recebem uma notificação de sucesso via SNS, e
 pedidos não aprovados recebem uma notificação de falha.
 
-Tive uma excelente experiência, é incrível como a automação facilita tudo.
 Através desse módulo pude aprender e desenvolver um WorkFlow.
+Tive uma excelente experiência, é incrível como a automação facilita tudo.
+
