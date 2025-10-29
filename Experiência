@@ -1,1 +1,9 @@
+Para realizar o desafio, utilizei: SQS, Lambda, Choice, DynamoDB e SNS.
 
+Explicação do meu projeto: Este é um WorkFlow de um sistema de aluguel de livros onde cada pedido é processado automaticamente.
+Quando um usuário solicita um livro, o pedido é colocado na fila SQS. Uma função Lambda verifica os dados
+e um Choice decide se o pagamento foi aprovado ou não. Pedidos aprovados são registrados no DynamoDB e recebem uma notificação de sucesso via SNS, e
+pedidos não aprovados recebem uma notificação de falha.
+
+Tive uma excelente experiência, é incrível como a automação facilita tudo.
+Através desse módulo pude aprender e desenvolver um WorkFlow.
